@@ -1,5 +1,5 @@
 body {
-    background-color: light yellow;
+    background-color: yellow;
 }
 
 h1{
@@ -8,3 +8,12 @@ h1{
     font-family: fantasy;
     
 }
+p.one{
+    color: black;
+    text-align: center;
+    font-family: fantasy;
+    border-style:double;
+    border-color: 
+}
+
+    
