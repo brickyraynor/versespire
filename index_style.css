@@ -1,5 +1,5 @@
 body {
-    background-color: yellow;
+    background-color:yellow;
 }
 
 h1{
@@ -8,12 +8,13 @@ h1{
     font-family: "Papyrus",fantasy;
     
 }
-.p1{
+p{
     color: black;
     text-align: center;
     font-family: fantasy;
     border-style:double;
-    border-color: blue
+    border-color: blue;
+    
 }
 
     
