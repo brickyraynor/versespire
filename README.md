@@ -1,0 +1,1 @@
+This is a website that supplies a weekly verse meant to inspire those who read it. Connected to it will be a devotion along with a shirt that you can choose to purchase, or you can subscribe to recieve one shirt per month.
