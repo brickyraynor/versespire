@@ -5,15 +5,15 @@ body {
 h1{
     color: black;
     text-align: center;
-    font-family: fantasy;
+    font-family: "Papyrus",fantasy;
     
 }
-p.one{
+.p1{
     color: black;
     text-align: center;
     font-family: fantasy;
     border-style:double;
-    border-color: 
+    border-color: blue
 }
 
     
